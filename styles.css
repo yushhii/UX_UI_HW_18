@@ -64,7 +64,7 @@ h4 {
 .imgPlaceholder {
     width: 448px;
     height: 465px;
-    background: url(../placeholderimage.png)
+    background: url(./placeholderimage.png)
 }
 
 .projectDetails {
